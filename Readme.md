@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Даниил Денисов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2649483).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra)
 
 ---
 
