@@ -2,6 +2,7 @@
 
 * Студент: [Даниил Денисов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2649483).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra)
+* <a href= "https://github.com/dan4ik144/2649483-sedona-2/tree/master"><a/>
 
 ---
 
