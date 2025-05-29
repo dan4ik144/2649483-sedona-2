@@ -2,7 +2,7 @@
 
 * Студент: [Даниил Денисов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2649483).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
-* сайт: [седона]( https://dan4ik144.github.io/2649483-sedona-2).
+* Cайт: [Cедона]( https://dan4ik144.github.io/2649483-sedona-2).
 
 
 ---
