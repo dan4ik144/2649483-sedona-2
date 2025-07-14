@@ -1,0 +1,426 @@
+@font-face {
+    font-family: "PT Sans";
+    font-style: normal;
+    font-weight: 400;
+
+    src: url("../fonts/ptsans-400.woff2") format("woff2")
+
+}
+
+@font-face {
+    font-family:"PT Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/ptsans-700.woff2") format("woff2")
+
+}
+
+html{
+    height: 100%;
+}
+
+
+
+html{
+    height:100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: "PT Sans", "Sans-serif";
+    min-height: 100%;
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 400;
+    font-style: normal;
+    color: #333333;
+    background-color: #F2F2F2;
+}
+
+.header-page {
+
+}
+
+.main-container{
+
+}
+
+
+
+
+
+
+
+
+
+
+.header-logo {
+}
+
+.header-page-logo {
+}
+
+.navigation {
+    background-color: inherit;
+    color: inherit;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    gap: 30px;
+    flex-direction: row;
+    width: 940px;
+
+}
+
+.navigation-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+
+
+
+
+
+
+}
+
+.navigation-item {
+max-width: 250px;
+margin-left: auto;
+
+}
+
+
+.navigation-link {
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-decoration: none;
+color: inherit;
+display: block;
+
+
+
+
+
+
+
+}
+
+
+
+
+.visualy-hidden {
+}
+.navigation-users {
+}
+.like {
+}
+.button {
+ background: #756157;
+ color: #FFFFFF
+;
+}
+.main-index {
+
+
+
+
+
+
+}
+.hero {
+    background-image:url(../img/index-background.jpg);
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 485px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+     margin: 0 auto;
+
+
+
+
+
+
+
+
+
+
+
+}
+.backgrounds-img {
+    display: flex;
+    justify-content: center;
+
+
+}
+.about {
+text-align: center;
+
+}
+
+.about-discriptions{
+font-weight: 400;
+font-style: Regular;
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+
+}
+
+.about-heading {
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+text-transform: uppercase;
+
+
+}
+
+
+.city-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+
+.advantages {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    vertical-align: bottom;
+    margin-bottom: auto;
+
+
+}
+
+
+
+
+
+.advantages-heading {
+
+
+}
+
+.advantages-list {
+display: flex;
+width: 400;
+height: 385;
+padding-top: 103px;
+padding-right: 85px;
+gap: 10px;
+
+
+
+
+
+
+
+
+}
+.advantages-item {
+display: flex;
+justify-content: space-between;
+width: 400;
+height: 385;
+padding-top: 103px;
+padding-right: 85px;
+padding-bottom: 103px;
+padding-left: 85px;
+gap: 10px;
+border-style: double;
+border-width: 5px;
+background-color:#82B3D3;
+
+
+
+
+
+
+}
+.advantages-title {
+background: #82B3D3;
+width: 175;
+height: 56;
+font-family: PT Sans;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+width: 175;
+height: 56;
+
+
+
+
+
+
+
+
+}
+.advatages-discriptions{
+width: 230;
+height: 42;
+font-family: PT Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0%;
+text-align: center;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.recomendation {
+
+}
+
+
+.recomendation-heading {
+
+}
+
+
+.recomendation-city {
+font-family: "PT Sans";
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+text-transform: uppercase;
+width: 505;
+height: 72;
+
+}
+
+
+.recomendation-text {
+font-family: PT Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+
+
+}
+
+
+.advantages-hotel {
+
+}
+
+
+.advantages-hotel-list {
+}
+.advantages-hotel-item {
+}
+.advatages-hotel-title {
+font-family: PT Sans;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+
+}
+
+
+.advantages-hotel-discriptions {
+font-family: PT Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+}
+
+
+.search-hotel {
+
+}
+.search-title {
+font-family: PT Sans;
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+text-transform: uppercase;
+
+}
+
+
+.search-discription {
+
+}
+
+
+.search-button {
+
+}
+
+
+.newsletter {
+
+}
+
+
+.newsletter-heading {
+}
+.newsletter-text {
+}
+.newsletter-form {
+}
+.newsletter-input-wrapper {
+}
+.newsletter-email {
+}
+.newsletter-button {
+}
+.page-footer {
+}
+.social-list {
+}
+.social-list-item {
+}
+.social-link {
+}
+.contact-number {
+}
+.footer-logo {
+}
+.visuallu-hidden {
+}
